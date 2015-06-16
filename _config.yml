@@ -1,1 +1,4 @@
-source: /blog
+source: ./blog
+destination: ./blog/_destination
+timezone: America/New_York
+

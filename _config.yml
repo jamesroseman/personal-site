@@ -37,7 +37,7 @@ owner:
     eat well, travel often, and act recklessly. You can follow all of his many
     adventures here.
   avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname: jamesroseman
+disqus-shortname: "jamesroseman"
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

@@ -1,15 +1,43 @@
-# Site settings
-title: James Roseman
-email: hi@jamesroseman.com
-description: > # this means to ignore newlines until "baseurl:"
-  The thoughts, theories, and pet projects that live inside 
-  the mind of an author turned musician turned programmer. I 
-  tend to eat well, travel often, and act recklessly, and you can 
-  follow all my many adventures here.
-baseurl: "/personal-site" # the subpath of your site, e.g. /blog/
-url: "http://jamesroseman.com" # the base hostname & protocol for your site
-twitter_username: jamesroseman
-github_username:  jamesroseman
+# Site wide configuration
 
-# Build settings
-markdown: kramdown
+title: James Roseman
+description: > #
+  The thoughts, theories, and pet projects that live inside 
+  the mind of an author turned musician turned programmer.
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: 
+url: "http://jamesroseman.github.io/personal-site"
+baseurl: '/personal-site'
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: James Roseman
+  email: james.roseman@gmail.com
+  twitter: jamesroseman
+  google: 
+    ad-client: 
+    ad-slot: 
+  bio: > #
+    Fulltime programmer, part-time thinker. James fills his
+    time writing music, short stories, and blog posts. He tends to
+    eat well, travel often, and act recklessly. You can follow all of his many
+    adventures here.
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname: jamesroseman
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

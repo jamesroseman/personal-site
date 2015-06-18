@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: Blog
+  url: /blog/
+  excerpt: "First-draft thoughts, consume at own risk"
+  image:
+  color: red
+
+- title: Photos
+  url: /photos/
+  excerpt: "Pictures from various adventures"
+  image:
+  color: orange
+
+- title: Stories
+  url: /stories/
+  excerpt: "Short stories I'd like to share"
+  image:
+  color: purple
+
+- title: Projects
+  url: /code/
+  excerpt: "Programming projects I've worked on"
+  image:
+  color: green
+

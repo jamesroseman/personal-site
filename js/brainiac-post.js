@@ -15,7 +15,7 @@
   var dummy; // Dummy variable to be filled with junk
 
   // Sigma graph
-  sigma.parsers.json('/content/LocalizationSigmaExampleData.json', {
+  sigma.parsers.json('/personal-site/content/LocalizationSigmaExampleData.json', {
     container: 'LocalizationProject1Graph',
     settings: {
       defaultNodeColor: '#ec5148',
@@ -47,16 +47,16 @@
 
     map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
 
-    addToMap(40.7974,-74.481536,map,'/images/localization/teal_marker.jpg');
-    addToMap(34.020029,-118.286931,map,'/images/localization/teal_marker.jpg');
-    addToMap(29.426468,-98.491233,map,'/images/localization/teal_marker.jpg');
-    addToMap(37.62261,-122.37804,map,'/images/localization/teal_marker.jpg');
-    addToMap(61.59938,-149.126804,map,'/images/localization/teal_marker.jpg');
-    addToMap(39.653671,-104.959502,map,'/images/localization/teal_marker.jpg');
-    addToMap(47.850015,-122.279457,map,'/images/localization/teal_marker.jpg');
-    addToMap(52.114942,-106.632519,map,'/images/localization/teal_marker.jpg');
-    addToMap(47.622767,-122.33668,map,'/images/localization/teal_marker.jpg');
-    addToMap(41.643112,-88.001369,map,'/images/localization/teal_marker.jpg');
+    addToMap(40.7974,-74.481536,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(34.020029,-118.286931,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(29.426468,-98.491233,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(37.62261,-122.37804,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(61.59938,-149.126804,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(39.653671,-104.959502,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(47.850015,-122.279457,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(52.114942,-106.632519,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(47.622767,-122.33668,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(41.643112,-88.001369,map,'/personal-site/images/localization/teal_marker.jpg');
   };
 
   // Main function, initializes the map and sets socket listeners
@@ -73,15 +73,15 @@
 
     map = new google.maps.Map(document.getElementById("map-canvas-2"), mapOptions);
 
-    addToMap(40.7974,-74.481536,map,'/images/localization/teal_marker.jpg');
-    addToMap(40.8600608260719,-74.43369456542476,map,'/images/localization/red_marker.jpg');
-    addToMap(40.83355333981307,-74.39870532449352,map,'/images/localization/red_marker.jpg');
-    addToMap(40.76118749496363,-74.3987955699618,map,'/images/localization/red_marker.jpg');
-    addToMap(40.73471945216056,-74.43378481107229,map,'/images/localization/red_marker.jpg');
-    addToMap(40.73471945216056,-74.52928718892775,map,'/images/localization/red_marker.jpg');
-    addToMap(40.76118749496363,-74.56427643003822,map,'/images/localization/red_marker.jpg');
-    addToMap(40.83355333981307,-74.56436667550652,map,'/images/localization/red_marker.jpg');
-    addToMap(40.8600608260719,-74.52937743457527,map,'/images/localization/red_marker.jpg');
+    addToMap(40.7974,-74.481536,map,'/personal-site/images/localization/teal_marker.jpg');
+    addToMap(40.8600608260719,-74.43369456542476,map,'/personal-site/images/localization/red_marker.jpg');
+    addToMap(40.83355333981307,-74.39870532449352,map,'/personal-site/images/localization/red_marker.jpg');
+    addToMap(40.76118749496363,-74.3987955699618,map,'/personal-site/images/localization/red_marker.jpg');
+    addToMap(40.73471945216056,-74.43378481107229,map,'/personal-site/images/localization/red_marker.jpg');
+    addToMap(40.73471945216056,-74.52928718892775,map,'/personal-site/images/localization/red_marker.jpg');
+    addToMap(40.76118749496363,-74.56427643003822,map,'/personal-site/images/localization/red_marker.jpg');
+    addToMap(40.83355333981307,-74.56436667550652,map,'/personal-site/images/localization/red_marker.jpg');
+    addToMap(40.8600608260719,-74.52937743457527,map,'/personal-site/images/localization/red_marker.jpg');
 
     var lineCoordinates = [
       new google.maps.LatLng(40.8600608260719,-74.43369456542476),

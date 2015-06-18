@@ -112,7 +112,7 @@ She doesn’t look at me as she speaks; her eyes stay on the ceiling.
 She says it like she’s quoting something. 
 
 “At night I like to stay up with earplugs in and just sketch. It’s too late for the subway to rumble the building, and all my flatmates are asleep. Nobody is trying to reach me. It’s just me and my work, and for a few hours I’m perfectly alone. Life just gets so loud sometimes.”
-We have these kinds of conversations almost every night we spend together. She says these thoughts that felt so heavy you just had to let them hang in the air for a little while and dissipate.
+We have these kinds of conversations almost every night we spend together. She says these thoughts that feel so heavy you just have to let them hang in the air for a little while and dissipate.
 
 “Don’t you get lonely?”
 
@@ -137,7 +137,7 @@ The first and only time I brought a girl home my father looked her up and down a
 </p>
 
 Kat never asks why I could only see her certain nights, but she’s not stupid. She’s away on a family vacation for two weeks, Ana and I are on one of our good streaks.
-We have music we used to listen to in high school on the speakers. A bottle of wine sits half-empty on the counter, and we haven’t even finished cooking yet. We’re having our first good time in months. Ana had heard about this recipe from someone at work, so she decided we’d try it out and cook together, like we used. The apartment smells like contentment. 
+We have music we used to listen to in high school on the speakers. A bottle of wine sits half-empty on the counter, and we haven’t even finished cooking yet. We’re having our first good time in months. Ana had heard about this recipe from someone at work, so she decided we’d try it out and cook together, like we used to. The apartment smells like contentment. 
 
 Ana gets silly when she gets happy, and it’s contagious. She dances across the kitchen floor with a goofy grin on her face towards me. She’s shorter than Kat, and a little more stout, but with good strong legs. I’m trying to test Kat’s theories on Ana, I blame it on this guy Frankie who I work with, and tell her he’s taking a philosophy class.
 

@@ -1,16 +1,10 @@
 ---
 layout: article
-title: the beautiful andaman coast
+title: The Land of Milk and Money - Thailand
 modified:
 categories: blog
 comments: true
 excerpt: "" 
-image:
-  feature: the-mountain-feature.jpeg
-  teaser: the-mountain-teaser.jpeg
-  thumb: the-mountain-thumb.jpeg
-  credit: Todd Quackenbush
-  creditlink: https://unsplash.com/toddquackenbush
 ---
 
 

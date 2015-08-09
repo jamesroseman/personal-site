@@ -1,16 +1,10 @@
 ---
 layout: article
-title: haad rin arena
+title: Haad Rin Arena - Thailand
 modified:
 categories: blog
 comments: true
-excerpt: "" 
-image:
-  feature: the-mountain-feature.jpeg
-  teaser: the-mountain-teaser.jpeg
-  thumb: the-mountain-thumb.jpeg
-  credit: Todd Quackenbush
-  creditlink: https://unsplash.com/toddquackenbush
+excerpt: ""
 ---
 
 "Haad Rin Fighting Arena! Professional Muay Thai fights!" The disembodied voice croons in a thick smooth Thai from a rusted loudspeaker next to the faded arena sign. Some old 80s pop song with a boyish aderenaline-fueled heartbeat like "The Final Countdown" provides the backdrop for the automated announcement. "Fights start at 9! Come on time... and bring your friends!"

@@ -4,7 +4,7 @@ title: The Land of Milk and Money - Thailand
 modified:
 categories: blog
 comments: true
-excerpt: "" 
+excerpt: "Hello from Bangkok, Thailand! I've travelled 29 hours flying to get all the way out here from Boston, MA (though, to me, it seemed like 49: 6am to midnight the next night). Welcome to the beautiful, daunting, multi-faceted, home-for-two-months, Kingdom of Thailand!" 
 ---
 
 

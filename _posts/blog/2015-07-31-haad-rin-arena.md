@@ -4,7 +4,7 @@ title: Haad Rin Arena - Thailand
 modified:
 categories: blog
 comments: true
-excerpt: ""
+excerpt: "I think I notice their faces first. Dutch, French, Spanish, shock transcends the language and cultural barriers that dictate facial expression. We stand outside of the Siam clinic in a big semi-circle, enveloping it. Stage left are three Thai girls crumpled in one another's arms, wailing and taking turns comforting and being comforted. Stage right are nurses and doctors frantically pumping away at the chest of a Thai man, naked except for a modest towel draped over his waist. I can't tell which we watch more fervently."
 ---
 
 "Haad Rin Fighting Arena! Professional Muay Thai fights!" The disembodied voice croons in a thick smooth Thai from a rusted loudspeaker next to the faded arena sign. Some old 80s pop song with a boyish aderenaline-fueled heartbeat like "The Final Countdown" provides the backdrop for the automated announcement. "Fights start at 9! Come on time... and bring your friends!"

@@ -4,7 +4,7 @@ title: The Beautiful Andaman Coast - Thailand
 modified:
 categories: blog
 comments: true
-excerpt: "" 
+excerpt: "For those who don't know, Thailand is a particularly strange shaped country. Through conquests and wars, the Thai people inhabit a land with a fat meaty midsection and a long skinny tail that competes all the way down the Andaman coast with Myanmar. Off the coast of this Andaman Coast, there are islands and small waterfront tourist towns to both the east and west." 
 ---
 
 Phew... what a week.
